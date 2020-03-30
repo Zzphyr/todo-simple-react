@@ -1,0 +1,13 @@
+.App {
+  margin: auto;
+  max-width: 1024px;
+  padding: 5px;
+}
+
+li {
+  cursor: pointer;
+}
+
+.done {
+  text-decoration:line-through;
+}
